@@ -1,7 +1,7 @@
 # 🚀 Hub de Projetos & Portfólio Técnico
 
 ## 👤 Identificação do Estudante
-*   **Nome:** [Seu Nome Completo aqui]
+*   **Nome:** Kauã vendramini Escobar
 *   **Curso:** Técnico em Desenvolvimento de Sistemas
 *   **Período:** 2º Bimestre / Ano Corrente
 
@@ -41,23 +41,23 @@ Selecione a disciplina abaixo para visualizar os projetos, explicações e instr
 *   **Acesso Direto:** [Ir para a pasta do projeto](./mobile/)
 
 ### 2. 💻 Desenvolvimento Front-end
-*   **Projeto:** [Nome do projeto ou atividade de Front-end]
-*   **Descrição Curta:** [Descreva o projeto front-end, ex: Uma landing page responsiva e moderna usando CSS Grid e Flexbox.]
+*   **Projeto:** Site monitoramento e explicacao
+*   **Descrição Curta:** Site que mostra como nosso projeto pode ser usado e que pode se conectar ao arduino.
 *   **Acesso Direto:** [Ir para a pasta do projeto](./front-end/)
 
 ### 3. ⚙️ Desenvolvimento Back-end
-*   **Projeto:** [Nome da API ou serviço de Back-end]
-*   **Descrição Curta:** [Descreva o back-end, ex: Uma API RESTful em Node.js com Express para controle de tarefas com autenticação.]
+*   **Projeto:** Site monitoramento e explicacao.
+*   **Descrição Curta:** Site que mostra como nosso projeto pode ser usado e que pode se conectar ao arduino.
 *   **Acesso Direto:** [Ir para a pasta do projeto](./back-end/)
 
 ### 4. 🗄️ Banco de Dados
-*   **Projeto:** [Nome da atividade ou modelagem de Banco de Dados]
-*   **Descrição Curta:** [Descreva o projeto de banco de dados, ex: Modelagem conceitual e física de um e-commerce com scripts de criação de tabelas e queries SQL.]
+*   **Projeto:** banco de dados para monitoramento da umidade do solo.
+*   **Descrição Curta:** Banco de dados para monitoramento
 *   **Acesso Direto:** [Ir para a pasta do projeto](./banco-de-dados/)
 
 ### 5. 🤖 Inteligência Artificial (IA)
-*   **Projeto:** [Nome da atividade ou script de IA]
-*   **Descrição Curta:** [Descreva a atividade de IA, ex: Um script em Python que consome a API do Gemini para categorizar feedbacks de usuários automaticamente.]
+*   **Projeto:** Automatizacao 
+*   **Descrição Curta:** Desenvolver uma ia para automatizar o acionamento do projeto
 *   **Acesso Direto:** [Ir para a pasta do projeto](./ia/)
 
 ### 6. 🔧 Versionamento e Gestão de Código
